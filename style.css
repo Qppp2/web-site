@@ -1,10 +1,10 @@
 h1 {
     background-color: bisque;
-    color: rgb(11, 33, 129);
-    text-align: end;
+    color: red;
+    text-align: center;
 }
 
 p {
     text-align: center;
-    color: rgb(33, 165, 88);
+    color: black;
 }
